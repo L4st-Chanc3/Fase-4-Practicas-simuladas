@@ -1,0 +1,6 @@
+2026-05-12 13:03:06,527 - ERROR - El nombre debe tener mínimo 3 caracteres
+2026-05-12 13:03:06,527 - ERROR - El precio base debe ser mayor que cero
+2026-05-12 13:03:06,527 - ERROR - La duración debe ser mayor que cero
+2026-05-12 13:03:06,527 - ERROR - No se puede confirmar una reserva cancelada
+2026-05-12 13:03:06,527 - ERROR - division by zero
+2026-05-12 13:03:06,527 - ERROR - list index out of range
